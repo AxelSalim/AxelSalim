@@ -12,7 +12,7 @@ Currently, I am focused on building innovative platforms, improving my full stac
 
 <div align="center">
 
-## 🌐 Socials
+# 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iamaxelsalim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adjakidje-axel) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/iamaxelsalim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iamaxelsalim) [![committers.top badge](https://user-badge.committers.top/benin_public/USERNAME.svg)](https://user-badge.committers.top/benin_public/AxelSalim)
 
@@ -20,7 +20,7 @@ Currently, I am focused on building innovative platforms, improving my full stac
 
 <div align="center">
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 </div>
 
