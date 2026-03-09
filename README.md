@@ -1,5 +1,14 @@
 # 💫 About Me:
-Je suis développeur Full Stack passionné par le code et les nouvelles technologies
+I am a passionate **Full Stack Developer with over 3 years of experience** building modern, scalable, and user-focused web applications.
+
+My work mainly focuses on **JavaScript and modern web technologies**, particularly **React, Next.js, and TypeScript** for the frontend, combined with backend technologies such as **Django and REST APIs**. I enjoy designing complete digital products, from intuitive user interfaces and user experiences to robust backend architecture and data management.
+
+Throughout my journey, I have worked on several projects including **SaaS platforms, online voting systems, and modern web applications** designed to solve real-world problems. I enjoy transforming ideas into fully functional products that are efficient, scalable, and easy to use.
+
+Beyond development, I am also interested in **UI/UX design, product development, and automation**. I like exploring how modern technologies, including **AI-powered tools**, can improve workflows and help build smarter digital solutions.
+
+Currently, I am focused on building innovative platforms, improving my full stack expertise, and contributing to projects that create real value for users and businesses.
+
 
 <div align="center">
 
